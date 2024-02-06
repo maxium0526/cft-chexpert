@@ -47,7 +47,11 @@ For example,
     python predict.py demo_img.jpg
 
 ## Training
-As we are still working on the paper, we will publish training code in the future.
+As we are still working on the paper, we will publish the training code in the future.
+
+#### 2024/02/07 Update
+The training code on MS-COCO is available now! See [this repository](https://github.com/maxium0526/category-wise-fine-tuning).
+
 
 ## Disclaimer
 
